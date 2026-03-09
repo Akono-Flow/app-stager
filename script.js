@@ -1,26 +1,26 @@
 // Each app has an icon name and a color
 const apps = [
-  // {
-  //   title: "Edu-Crossword",
-  //   description: "Explore Ideas and topics with Crossword",
-  //   url: "https://akono-flow.github.io/crossword/",
-  //   icon: "gamepad-2",
-  //   color: "#0d6efd"
-  // },
-  // {
-  //   title: "Edu-Jeopardy",
-  //   description: "Explore Ideas and topics with Jeopardy",
-  //   url: "https://akono-flow.github.io/edu-jeopardy/",
-  //   icon: "gamepad-2",
-  //   color: "#e83e8c"
-  // },
-  // {
-  //   title: "Edu-Quadratics",
-  //   description: "Generate quadratic expressions for factorization",
-  //   url: "https://akono-flow.github.io/quadratics-gen/",
-  //   icon: "gamepad",
-  //   color: "#0d6efd"
-  // },
+  {
+    title: "Edu-Crossword",
+    description: "Explore Ideas and topics with Crossword",
+    url: "https://akono-flow.github.io/crossword/",
+    icon: "gamepad-2",
+    color: "#0d6efd"
+  },
+  {
+    title: "Edu-Jeopardy",
+    description: "Explore Ideas and topics with Jeopardy",
+    url: "https://akono-flow.github.io/edu-jeopardy/",
+    icon: "gamepad-2",
+    color: "#e83e8c"
+  },
+  {
+    title: "Edu-Quadratics",
+    description: "Generate quadratic expressions for factorization",
+    url: "https://akono-flow.github.io/quadratics-gen/",
+    icon: "gamepad",
+    color: "#0d6efd"
+  },
   // {
   //   title: "Titration Curves",
   //   description: "Explore types of titration curve with interactive simulator",
